@@ -55,7 +55,6 @@ It helps the Marketing team, especially the Head of Marketing (Sharon), to disco
 4. **Visualise**: Connect the dataset to Power BI to build the dashboard.
 5. **Refresh**: Schedule daily/weekly updates to maintain freshness.
 
-![architecture-diagram](docs/architecture.png) <!-- optional if you add a diagram -->
 
 ## 📐 Metrics & Formulas
 - **Average Views per Video** = `Total Views / Total Videos Uploaded`
